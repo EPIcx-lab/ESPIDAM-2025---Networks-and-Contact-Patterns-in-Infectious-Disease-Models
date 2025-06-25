@@ -8,7 +8,8 @@ We will use Python with notebooks for interactive coding. Here's a quick setup g
 1) If Jupyter isn't already on your system, start by downloading Anaconda from [here](https://www.anaconda.com/download) and follow the installation instructions for your operating system.  
 2) Once Anaconda is installed, open Anaconda Navigator and launch JupyterLab.  
 3) Install the required libraries with either `conda install pandas numpy matplotlib geopandas statsmodels` or `pip install pandas numpy matplotlib geopandas statsmodels` in your terminal or command prompt.
-4) Download and try to run the test notebook present in this repository. 
+4) Download and try to run the test notebook present in this repository.
+5) Clone the repository or manually download the notebooks
 
 **Option 2 (Use Google Colab – no local installation required)**  
 You can run the notebooks directly in your browser using Google Colab. 
@@ -18,9 +19,9 @@ To test it:
 3) Click "*Open in Colab*" at the top  
 4) Go to *File > Save a copy in Drive* to make your own editable version  
 5) Run the code cells and try editing the notebook
-
-## Labs
-Files and links for the lessons will be provided soon.  
+Acces the notebooks at:  
+- Lab 1 Part 1: https://drive.google.com/file/d/1jYnvtWHQSwwLeDTxLpgRvIYBx7rgYpFs/view?usp=sharing
+- Lab 2 Part 2: https://drive.google.com/file/d/1iEf1K9S8BvpQih28O5hy-TZmtkO04iMs/view?usp=sharing
 
 
 ## Acknowledgements
