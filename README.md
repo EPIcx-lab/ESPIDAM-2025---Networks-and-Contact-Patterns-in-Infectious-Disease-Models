@@ -20,8 +20,12 @@ To test it:
 4) Go to *File > Save a copy in Drive* to make your own editable version  
 5) Run the code cells and try editing the notebook
 Acces the notebooks at:  
-- Lab 1 Part 1: https://drive.google.com/file/d/1jYnvtWHQSwwLeDTxLpgRvIYBx7rgYpFs/view?usp=sharing
-- Lab 2 Part 2: https://drive.google.com/file/d/1iEf1K9S8BvpQih28O5hy-TZmtkO04iMs/view?usp=sharing
+- Lab 1 Part 1 solution: https://drive.google.com/file/d/1b9YUTSBWwRW9nk1IN_MUEnxORu-9z2I7/view?usp=sharing
+- Lab 2 Part 2 solution: https://drive.google.com/file/d/1-EX3aAqNYSj5pbjNUbT_vMSGRQGfQwph/view?usp=sharing
+- Lab 2 Part 1: https://drive.google.com/file/d/1j86yZLBwr6qt0klb6y0Q64_hNouzjbpy/view?usp=sharing
+- Lab 2 Part 2: https://drive.google.com/file/d/1e6ZyuD1iwQPfrI8zLi853NPIxReD5zVx/view?usp=sharing
+- Lab 2 Part 1 solution: https://drive.google.com/file/d/1uzqTXvIUyEWYlCRDKfdb7XfqYzkXv8Gz/view?usp=sharing
+- Lab 2 Part 2 solution: https://drive.google.com/file/d/11fYpj8fPAYefOWqNE5V90o8iigghrF2M/view?usp=sharing
 
 
 ## Acknowledgements
